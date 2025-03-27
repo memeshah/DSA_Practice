@@ -1,4 +1,4 @@
-package com.first.program;
+package com.Kunal.program;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;
