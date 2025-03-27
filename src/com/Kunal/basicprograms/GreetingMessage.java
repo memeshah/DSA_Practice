@@ -1,6 +1,5 @@
-package com.Kunal.program;
+package com.Kunal.basicprograms;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class GreetingMessage {
